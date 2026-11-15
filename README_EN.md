@@ -18,6 +18,53 @@ One word, one family, one tree. 500 English words taught the word-family way.
 **Sample entry · extant (18 family cards)**
 ![extant](preview/word-extant.png)
 
+## Inside a word entry · paraphrase as an example
+
+<table>
+<tr>
+<td width="50%">
+
+**1 · Word Family Tree: root on top, three columns**
+<img src="preview/sec-tree.png" alt="Word Family Tree">
+
+</td>
+<td width="50%">
+
+**2 · Two most important meanings: collocations + examples**
+<img src="preview/sec-meanings.png" alt="Two most important meanings">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**3 · High-frequency collocations: 12 common pairings**
+<img src="preview/sec-collocations.png" alt="High-frequency collocations">
+
+</td>
+<td width="50%">
+
+**4 · Near-synonym distinctions: 8 close words**
+<img src="preview/sec-synonyms.png" alt="Near-synonym distinctions">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**5 · Practical expressions: 5 ready-to-use phrases**
+<img src="preview/sec-expressions.png" alt="Practical expressions">
+
+</td>
+<td width="50%">
+
+**7 · Five must-remember words + one memory sentence**
+<img src="preview/sec-five-words.png" alt="Five must-remember words">
+
+</td>
+</tr>
+</table>
+
 ## What this book is
 
 Not a word list — a vocabulary handbook organized by **word family**. 500 words across ten levels (L1–L10), 50 words per level, from words 60–70% of adults know to words only the top 5% use.

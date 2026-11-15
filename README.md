@@ -19,6 +19,53 @@ One word, one family, one tree. 500 English words taught the word-family way.
 **词条示例 · extant（18 张词族卡片）**
 ![extant](preview/word-extant.png)
 
+## 每个词长什么样 · 以 paraphrase 为例
+
+<table>
+<tr>
+<td width="50%">
+
+**1 · 词族树：词根在上，三列展开**
+<img src="preview/sec-tree.png" alt="词族树">
+
+</td>
+<td width="50%">
+
+**2 · 两个最重要的意思：搭配 + 例句**
+<img src="preview/sec-meanings.png" alt="两个最重要的意思">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**3 · 高频搭配：12 个常用搭配**
+<img src="preview/sec-collocations.png" alt="高频搭配">
+
+</td>
+<td width="50%">
+
+**4 · 近义词辨析：8 个近义词**
+<img src="preview/sec-synonyms.png" alt="近义词辨析">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**5 · 实用表达：5 个能直接用的表达**
+<img src="preview/sec-expressions.png" alt="实用表达">
+
+</td>
+<td width="50%">
+
+**7 · 五个必记词 + 一句记忆句**
+<img src="preview/sec-five-words.png" alt="五个必记词">
+
+</td>
+</tr>
+</table>
+
 ## 这本书是什么
 
 这不是一本单词表，而是一本按**词族**编排的词汇手册。全书 500 词，分 L1–L10 十个级别，每级 50 词，从 60–70% 成年人都认识的基础词，一直爬到前 5% 才用的顶级词汇。
