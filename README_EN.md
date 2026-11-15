@@ -4,40 +4,6 @@ One word, one family, one tree. 500 English words taught the word-family way.
 
 中文版介绍见 [README.md](README.md)。
 
-## Preview
-
-**Cover**
-![Cover](preview/cover.png)
-
-**Contents (words 1–500)**
-![Contents](preview/contents.png)
-
-**Sample entry · paraphrase (family tree + two most important meanings)**
-![paraphrase](preview/word-paraphrase.png)
-
-**Sample entry · extant (18 family cards)**
-![extant](preview/word-extant.png)
-
-## Inside a word entry · paraphrase as an example
-
-**1 · Word Family Tree: root on top, three columns**
-![Word Family Tree](preview/sec-tree.png)
-
-**2 · Two most important meanings: collocations + examples**
-![Two most important meanings](preview/sec-meanings.png)
-
-**3 · High-frequency collocations: 12 common pairings**
-![High-frequency collocations](preview/sec-collocations.png)
-
-**4 · Near-synonym distinctions: 8 close words**
-![Near-synonym distinctions](preview/sec-synonyms.png)
-
-**5 · Practical expressions: 5 ready-to-use phrases**
-![Practical expressions](preview/sec-expressions.png)
-
-**7 · Five must-remember words + one memory sentence**
-![Five must-remember words](preview/sec-five-words.png)
-
 ## What this book is
 
 Not a word list — a vocabulary handbook organized by **word family**. 500 words across ten levels (L1–L10), 50 words per level, from words 60–70% of adults know to words only the top 5% use.
@@ -114,6 +80,40 @@ Each word usually takes 2 pages, 3 when the content needs it — nothing is trim
 - `words/`: Markdown source for all 500 words
 - `pdf/`: five daily volumes (100 words each)
 - Complete book (1,132 pages): download from [Releases](https://github.com/jacknnnbauer/word-family-500/releases)
+
+## Preview
+
+**Cover**
+![Cover](preview/cover.png)
+
+**Contents (words 1–500)**
+![Contents](preview/contents.png)
+
+**Sample entry · paraphrase (family tree + two most important meanings)**
+![paraphrase](preview/word-paraphrase.png)
+
+**Sample entry · extant (18 family cards)**
+![extant](preview/word-extant.png)
+
+## Inside a word entry · paraphrase as an example
+
+**1 · Word Family Tree: root on top, three columns**
+![Word Family Tree](preview/sec-tree.png)
+
+**2 · Two most important meanings: collocations + examples**
+![Two most important meanings](preview/sec-meanings.png)
+
+**3 · High-frequency collocations: 12 common pairings**
+![High-frequency collocations](preview/sec-collocations.png)
+
+**4 · Near-synonym distinctions: 8 close words**
+![Near-synonym distinctions](preview/sec-synonyms.png)
+
+**5 · Practical expressions: 5 ready-to-use phrases**
+![Practical expressions](preview/sec-expressions.png)
+
+**7 · Five must-remember words + one memory sentence**
+![Five must-remember words](preview/sec-five-words.png)
 
 ## License
 

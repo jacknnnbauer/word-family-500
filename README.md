@@ -5,40 +5,6 @@
 One word, one family, one tree. 500 English words taught the word-family way.
 英文版介绍见 [README_EN.md](README_EN.md)。
 
-## 预览
-
-**封面**
-![封面](preview/cover.png)
-
-**目录（第 1–500 词）**
-![目录](preview/contents.png)
-
-**词条示例 · paraphrase（词族树 + 两个最重要的意思）**
-![paraphrase](preview/word-paraphrase.png)
-
-**词条示例 · extant（18 张词族卡片）**
-![extant](preview/word-extant.png)
-
-## 每个词长什么样 · 以 paraphrase 为例
-
-**1 · 词族树：词根在上，三列展开**
-![词族树](preview/sec-tree.png)
-
-**2 · 两个最重要的意思：搭配 + 例句**
-![两个最重要的意思](preview/sec-meanings.png)
-
-**3 · 高频搭配：12 个常用搭配**
-![高频搭配](preview/sec-collocations.png)
-
-**4 · 近义词辨析：8 个近义词**
-![近义词辨析](preview/sec-synonyms.png)
-
-**5 · 实用表达：5 个能直接用的表达**
-![实用表达](preview/sec-expressions.png)
-
-**7 · 五个必记词 + 一句记忆句**
-![五个必记词](preview/sec-five-words.png)
-
 ## 这本书是什么
 
 这不是一本单词表，而是一本按**词族**编排的词汇手册。全书 500 词，分 L1–L10 十个级别，每级 50 词，从 60–70% 成年人都认识的基础词，一直爬到前 5% 才用的顶级词汇。
@@ -115,6 +81,40 @@ One word, one family, one tree. 500 English words taught the word-family way.
 - `words/`：500 个词的 Markdown 原稿
 - `pdf/`：5 册日册 PDF（每天 100 词）
 - 全书合订本（1,132 页）：见 [Releases](https://github.com/jacknnnbauer/word-family-500/releases) 下载
+
+## 预览
+
+**封面**
+![封面](preview/cover.png)
+
+**目录（第 1–500 词）**
+![目录](preview/contents.png)
+
+**词条示例 · paraphrase（词族树 + 两个最重要的意思）**
+![paraphrase](preview/word-paraphrase.png)
+
+**词条示例 · extant（18 张词族卡片）**
+![extant](preview/word-extant.png)
+
+## 每个词长什么样 · 以 paraphrase 为例
+
+**1 · 词族树：词根在上，三列展开**
+![词族树](preview/sec-tree.png)
+
+**2 · 两个最重要的意思：搭配 + 例句**
+![两个最重要的意思](preview/sec-meanings.png)
+
+**3 · 高频搭配：12 个常用搭配**
+![高频搭配](preview/sec-collocations.png)
+
+**4 · 近义词辨析：8 个近义词**
+![近义词辨析](preview/sec-synonyms.png)
+
+**5 · 实用表达：5 个能直接用的表达**
+![实用表达](preview/sec-expressions.png)
+
+**7 · 五个必记词 + 一句记忆句**
+![五个必记词](preview/sec-five-words.png)
 
 ## License
 
