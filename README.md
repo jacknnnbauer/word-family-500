@@ -21,50 +21,23 @@ One word, one family, one tree. 500 English words taught the word-family way.
 
 ## 每个词长什么样 · 以 paraphrase 为例
 
-<table>
-<tr>
-<td width="50%">
-
 **1 · 词族树：词根在上，三列展开**
-<img src="preview/sec-tree.png" alt="词族树">
-
-</td>
-<td width="50%">
+![词族树](preview/sec-tree.png)
 
 **2 · 两个最重要的意思：搭配 + 例句**
-<img src="preview/sec-meanings.png" alt="两个最重要的意思">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+![两个最重要的意思](preview/sec-meanings.png)
 
 **3 · 高频搭配：12 个常用搭配**
-<img src="preview/sec-collocations.png" alt="高频搭配">
-
-</td>
-<td width="50%">
+![高频搭配](preview/sec-collocations.png)
 
 **4 · 近义词辨析：8 个近义词**
-<img src="preview/sec-synonyms.png" alt="近义词辨析">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+![近义词辨析](preview/sec-synonyms.png)
 
 **5 · 实用表达：5 个能直接用的表达**
-<img src="preview/sec-expressions.png" alt="实用表达">
-
-</td>
-<td width="50%">
+![实用表达](preview/sec-expressions.png)
 
 **7 · 五个必记词 + 一句记忆句**
-<img src="preview/sec-five-words.png" alt="五个必记词">
-
-</td>
-</tr>
-</table>
+![五个必记词](preview/sec-five-words.png)
 
 ## 这本书是什么
 
