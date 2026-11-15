@@ -4,6 +4,20 @@ One word, one family, one tree. 500 English words taught the word-family way.
 
 中文版介绍见 [README.md](README.md)。
 
+## Preview
+
+**Cover**
+![Cover](preview/cover.png)
+
+**Contents (words 1–500)**
+![Contents](preview/contents.png)
+
+**Sample entry · paraphrase (family tree + two most important meanings)**
+![paraphrase](preview/word-paraphrase.png)
+
+**Sample entry · extant (18 family cards)**
+![extant](preview/word-extant.png)
+
 ## What this book is
 
 Not a word list — a vocabulary handbook organized by **word family**. 500 words across ten levels (L1–L10), 50 words per level, from words 60–70% of adults know to words only the top 5% use.
